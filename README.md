@@ -309,16 +309,16 @@ usage: main.py [-h] [--output OUTPUT] [--repo-dir REPO_DIR] [--n-clusters N_CLUS
                [--n-topics N_TOPICS] [--similarity-threshold SIMILARITY_THRESHOLD]
                [--skip-clone] [--skip-collect] [--skip-similarity] [--skip-categorization]
 
-optional arguments:
-  -h, --help            show this help message and exit
-  --output OUTPUT       Output directory for analysis results
-  --repo-dir REPO_DIR   Directory for cloning repositories
-  --n-clusters N_CLUSTERS
-                        Number of clusters for k-means
-  --n-topics N_TOPICS   Number of topics for topic modeling
-  --similarity-threshold SIMILARITY_THRESHOLD
-                        Similarity threshold for grouping
-  --skip-clone          Skip cloning repositories
-  --skip-collect        Skip collecting rules
-  --skip-similarity     Skip similarity analysis
-  --skip-categorization Skip categorization analysis
+optional arguments: 
+  -h, --help            show this help message and exit 
+  --output OUTPUT       Output directory for analysis results 
+  --repo-dir REPO_DIR   Directory for cloning repositories 
+  --n-clusters N_CLUSTERS 
+                        Number of clusters for k-means 
+  --n-topics N_TOPICS   Number of topics for topic modeling 
+  --similarity-threshold SIMILARITY_THRESHOLD 
+                        Similarity threshold for grouping 
+  --skip-clone          Skip cloning repositories 
+  --skip-collect        Skip collecting rules 
+  --skip-similarity     Skip similarity analysis 
+  --skip-categorization Skip categorization analysis 
