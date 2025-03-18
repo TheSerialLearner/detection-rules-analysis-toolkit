@@ -1,4 +1,4 @@
-# Security Rule Analysis Toolkit - Installation and Usage Guide
+# Detection Rules Analysis Toolkit - Installation and Usage Guide
 
 This toolkit provides a comprehensive set of tools for analyzing and grouping similar security detection rules from multiple repositories (Sigma, Splunk, and Elastic).
 
@@ -13,7 +13,7 @@ This toolkit provides a comprehensive set of tools for analyzing and grouping si
 
 ## Overview
 
-The Security Rule Analysis Toolkit allows you to:
+The Detection Rules Analysis Toolkit allows you to:
 - Download and parse rules from multiple security rule repositories
 - Group similar rules using various clustering and similarity techniques
 - Categorize rules based on MITRE ATT&CK tactics and techniques
