@@ -54,8 +54,8 @@ The Security Rule Analysis Toolkit allows you to:
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/security-rule-analysis.git
-cd security-rule-analysis
+git clone https://github.com/TheSerialLearner/detection-rules-analysis-toolkit.git
+cd detection-rules-analysis-toolkit
 ```
 
 2. Create a virtual environment (recommended):
